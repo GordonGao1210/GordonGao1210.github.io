@@ -1,0 +1,6 @@
+baseURL = 'https://gordongao1210.github.io/'
+languageCode = 'en-us'
+title = "Shengyun's Website"
+theme = 'hugo-theme-zen-main'
+footer = "Shengyun Gao. Last modified: May 06, 2022."
+publishDir = 'docs'

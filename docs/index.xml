@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HOME on Shengyun&#39;s Website</title>
+    <link>https://gordongao1210.github.io/</link>
+    <description>Recent content in HOME on Shengyun&#39;s Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 06 May 2022 20:00:06 -0400</lastBuildDate>
+    <atom:link href="https://gordongao1210.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Food</title>
+      <link>https://gordongao1210.github.io/food/</link>
+      <pubDate>Fri, 06 May 2022 21:42:39 -0400</pubDate>
+      <guid>https://gordongao1210.github.io/food/</guid>
+      <description>&lt;p&gt;There are some resturants that I really recommend you to have a try!&lt;/p&gt;
+&lt;h1 id=&#34;kanpai-classic&#34;&gt;KANPAI CLASSIC&lt;/h1&gt;
+&lt;p&gt;2018.05.22 (GMT+8) Shanghai, CN
+&lt;img src=&#34;https://gordongao1210.github.io/FoodImg/KANPAICLASSIC/IMG_9708.JPG&#34; alt=&#34;GB1&#34;&gt;
+&lt;img src=&#34;https://gordongao1210.github.io/FoodImg/KANPAICLASSIC/IMG_9709.JPG&#34; alt=&#34;GB2&#34;&gt;
+&lt;img src=&#34;https://gordongao1210.github.io/FoodImg/KANPAICLASSIC/IMG_9710.JPG&#34; alt=&#34;GB3&#34;&gt;&lt;/p&gt;
+&lt;h1 id=&#34;bo-shanghai&#34;&gt;Bo Shanghai&lt;/h1&gt;
+&lt;p&gt;2018.06.02 (GMT+8) Shanghai, CN
+&lt;img src=&#34;https://gordongao1210.github.io/FoodImg/BoShanghai/IMG_9711.JPG&#34; alt=&#34;BS1&#34;&gt;
+&lt;img src=&#34;https://gordongao1210.github.io/FoodImg/BoShanghai/IMG_9712.JPG&#34; alt=&#34;BS2&#34;&gt;
+&lt;img src=&#34;https://gordongao1210.github.io/FoodImg/BoShanghai/IMG_9713.JPG&#34; alt=&#34;BS3&#34;&gt;
+&lt;img src=&#34;https://gordongao1210.github.io/FoodImg/BoShanghai/IMG_9715.JPG&#34; alt=&#34;BS4&#34;&gt;&lt;/p&gt;
+&lt;h1 id=&#34;ichiran-ramen&#34;&gt;Ichiran Ramen&lt;/h1&gt;
+&lt;p&gt;2018.07.13 (UTC−05:00) New York, NY
+&lt;img src=&#34;https://gordongao1210.github.io/FoodImg/IchiranRamen/IMG_1674.jpeg&#34; alt=&#34;ICR1&#34;&gt;
+&lt;img src=&#34;https://gordongao1210.github.io/FoodImg/IchiranRamen/IMG_1675.jpeg&#34; alt=&#34;ICR1&#34;&gt;
+&lt;img src=&#34;https://gordongao1210.github.io/FoodImg/IchiranRamen/IMG_1676.jpeg&#34; alt=&#34;ICR1&#34;&gt;
+&lt;img src=&#34;https://gordongao1210.github.io/FoodImg/IchiranRamen/IMG_1677.jpeg&#34; alt=&#34;ICR1&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ShsCCF</title>
+      <link>https://gordongao1210.github.io/shsccf/</link>
+      <pubDate>Fri, 06 May 2022 21:42:31 -0400</pubDate>
+      <guid>https://gordongao1210.github.io/shsccf/</guid>
+      <description>&lt;p&gt;Shanghai High School Charity Comic Fair (ShsCCF) is a comic fair held between 2014 and 2017.&lt;/p&gt;
+&lt;h1 id=&#34;第一届-first&#34;&gt;第一届 First&lt;/h1&gt;
+&lt;p&gt;2014.07.27
+&lt;img src=&#34;https://gordongao1210.github.io/ShsCCFImg/First/poster.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h1 id=&#34;第二届-second&#34;&gt;第二届 Second&lt;/h1&gt;
+&lt;p&gt;2015.08.08
+&lt;img src=&#34;https://gordongao1210.github.io/ShsCCFImg/Second/posterC.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h1 id=&#34;第三届-third&#34;&gt;第三届 Third&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&#34;https://gordongao1210.github.io/ShsCCFImg/Third/poster.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h1 id=&#34;第四届-fourth&#34;&gt;第四届 Fourth&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&#34;https://gordongao1210.github.io/ShsCCFImg/Fourth/poster.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h1 id=&#34;to-be-continued&#34;&gt;To Be Continued&amp;hellip;&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&#34;https://gordongao1210.github.io/ShsCCFImg/ToBeContinued/LOGO.png&#34; alt=&#34;&#34;&gt;
+`import datetime&lt;/p&gt;
+&lt;p&gt;from dateutil.relativedelta import relativedelta&lt;/p&gt;
+&lt;p&gt;date = datetime.date(2017,8,5) + relativedelta(years=10)&lt;/p&gt;
+&lt;p&gt;print(date)`&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Project</title>
+      <link>https://gordongao1210.github.io/project/</link>
+      <pubDate>Fri, 06 May 2022 19:06:53 -0400</pubDate>
+      <guid>https://gordongao1210.github.io/project/</guid>
+      <description>&lt;h1 id=&#34;whattoeatapp&#34;&gt;WhatToEat.app&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&#34;https://gordongao1210.github.io/Projects/WhatToEat/180x180.png&#34; alt=&#34;WTE1&#34;&gt;&lt;/p&gt;
+&lt;p&gt;A food allergy tracking iOS APP written in SwiftUI that is never finished.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/GordonGao1210/WhatToEat&#34;&gt;View it on GitHub&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;sparse-index-tracking&#34;&gt;Sparse Index Tracking&lt;/h1&gt;
+&lt;p&gt;This project is aimed at adding L_0 norm to the index tracking problem and yield a sparse portfolio through solving optimization problems.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
